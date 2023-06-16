@@ -9,10 +9,10 @@
 </head>
 <body>
     <main>
-        <div class="title-card ">
-            <span>Google Cloud SQL</span>
-        </div>
         <div class="cadastro">
+            <div class="title-card ">
+                <span>Google Cloud SQL</span>
+            </div>
             <form action="?c=<?php echo base64_encode('Home'); ?>&a=<?php echo base64_encode('InserirAluno'); ?>" method="POST" enctype="multipart/form-data">
                 <h2>Cadastro de alunos</h2>
                 <label for="nome">Nome</label>

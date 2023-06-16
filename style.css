@@ -34,10 +34,6 @@ form h2{
     margin-bottom: 25px;
 }
 .title-card{
-    padding: 20px;
-    border-top-right-radius: 15px;
-    border-top-left-radius: 15px;
-    width: 30vw;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -67,10 +63,8 @@ input[type="submit"]{
     color: #111;
 }
 table, tr, td, th{
-    width: auto;
     padding: 5px 20px;
 }
-.listar{
-    height: 50vh;
+table{
     border-left: 1px solid black;
 }

@@ -9,7 +9,7 @@
 </head>
 <body>
     <main>
-    <div class="title-card ">
+        <div class="title-card ">
             <img src="img/google-cloud-logo.svg" width="300">
             <span>Demonstração</span>
         </div>
